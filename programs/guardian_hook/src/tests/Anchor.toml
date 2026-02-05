@@ -1,0 +1,6 @@
+[programs.devnet]
+guardian_hook = "2aLWR5XmvASspmZuYZ8YcSD2fxRsJiQwd1eWg6cxQQ2i"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
